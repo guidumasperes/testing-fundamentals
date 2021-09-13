@@ -1,0 +1,448 @@
+1631481617520	geckodriver	INFO	Listening on 127.0.0.1:62834
+1631481621430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileF7IRnp"
+1631481629563	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileF7IRnp\\search.json.mozlz4", (void 0)))
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1631481656080	Marionette	INFO	Listening on port 62842
+1631481658585	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.seleniumeasy.com"
+1631482087367	Marionette	INFO	Stopped listening on port 62842
+1482075949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilevzAjpo"
+1631482077960	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilevzAjpo\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1631482089586	Marionette	INFO	Listening on port 65510
+1631482090679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631482254994	Marionette	INFO	Stopped listening on port 65510
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631482257176	geckodriver	INFO	Listening on 127.0.0.1:52248
+1631482260116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileDay1rW"
+1631482261471	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileDay1rW\\search.json.mozlz4", (void 0)))
+[Parent 13248, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1631482272367	Marionette	INFO	Listening on port 52256
+1631482272503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request http://cdn.bootcss.com/animate.css/3.5.1/animate.min.css without a browsingContextID set
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+1631482373692	Marionette	INFO	Stopped listening on port 52256
+1631482374445	geckodriver	INFO	Listening on 127.0.0.1:52350
+1631482377443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileFZ77Bd"
+1631482378239	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileFZ77Bd\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1631482388244	Marionette	INFO	Listening on port 52358
+1631482389445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631482446379	Marionette	INFO	Stopped listening on port 52358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631482453172	geckodriver	INFO	Listening on 127.0.0.1:52430
+1631482456183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilehJHr6p"
+1631482457207	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilehJHr6p\\search.json.mozlz4", (void 0)))
+1631482466354	Marionette	INFO	Listening on port 52439
+1631482466401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request http://cdn.bootcss.com/animate.css/3.5.1/animate.min.css without a browsingContextID set
+[Parent 5920, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1631482766406	Marionette	INFO	Stopped listening on port 52439
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631482783350	geckodriver	INFO	Listening on 127.0.0.1:51582
+1631482786361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofiles6eSRx"
+1631482789551	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofiles6eSRx\\search.json.mozlz4", (void 0)))
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1631482808273	Marionette	INFO	Listening on port 51590
+1631482808380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631482917460	Marionette	INFO	Stopped listening on port 51590
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631482918478	geckodriver	INFO	Listening on 127.0.0.1:62067
+1631482921488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileK1dOGI"
+1631482922418	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileK1dOGI\\search.json.mozlz4", (void 0)))
+1631482931001	Marionette	INFO	Listening on port 62075
+1631482931435	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13488, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 13920, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1631482971926	Marionette	INFO	Stopped listening on port 62075
+1631482976175	geckodriver	INFO	Listening on 127.0.0.1:53152
+1631482979189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileXu7wqf"
+1631482980368	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileXu7wqf\\search.json.mozlz4", (void 0)))
+1631482988904	Marionette	INFO	Listening on port 53161
+1631482989770	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631483077792	Marionette	INFO	Stopped listening on port 53161
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631483087108	geckodriver	INFO	Listening on 127.0.0.1:53239
+1631483090115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileKhGeRu"
+1631483091398	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileKhGeRu\\search.json.mozlz4", (void 0)))
+1631483099319	Marionette	INFO	Listening on port 53247
+1631483099967	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.seleniumeasy.com"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request http://cdn.bootcss.com/animate.css/3.5.1/animate.min.css without a browsingContextID set
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631483741013	Marionette	INFO	Stopped listening on port 53247
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631483750522	geckodriver	INFO	Listening on 127.0.0.1:61925
+1631483753499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile01ileH"
+1631483754750	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile01ileH\\search.json.mozlz4", (void 0)))
+1631483762786	Marionette	INFO	Listening on port 61933
+1631483763155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631483840340	Marionette	INFO	Stopped listening on port 61933
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631483843930	geckodriver	INFO	Listening on 127.0.0.1:61992
+1631483846940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileMuUKTT"
+1631483847861	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileMuUKTT\\search.json.mozlz4", (void 0)))
+1631483856534	Marionette	INFO	Listening on port 62000
+1631483856619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631484002923	Marionette	INFO	Stopped listening on port 62000
+1631484007278	geckodriver	INFO	Listening on 127.0.0.1:62084
+1631484010266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilePrPoyN"
+1631484010976	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilePrPoyN\\search.json.mozlz4", (void 0)))
+1631484018669	Marionette	INFO	Listening on port 64988
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1631484020466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631484137645	Marionette	INFO	Stopped listening on port 64988
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631484140127	geckodriver	INFO	Listening on 127.0.0.1:65068
+1631484143139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileDxG7mQ"
+1631484143901	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileDxG7mQ\\search.json.mozlz4", (void 0)))
+1631484151415	Marionette	INFO	Listening on port 65077
+1631484152345	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6952, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1631484282116	Marionette	INFO	Stopped listening on port 65077
+1631484289242	geckodriver	INFO	Listening on 127.0.0.1:56628
+1631484292261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileL9Mhuo"
+1631484293547	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileL9Mhuo\\search.json.mozlz4", (void 0)))
+1631484300632	Marionette	INFO	Listening on port 56636
+1631484300678	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Google+Sans:400,500|Roboto|Material+Icons without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.google.com/intl/en_us/earth/assets/static/css/main-3d48fa2a50f91e28b76184bb316e2a2879ea5bba791882eac539485a2c27e81d.min.css without a browsingContextID set
+1631485003187	Marionette	INFO	Stopped listening on port 56636
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631485020022	geckodriver	INFO	Listening on 127.0.0.1:55466
+1631485023002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilerTKpDt"
+1631485023798	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilerTKpDt\\search.json.mozlz4", (void 0)))
+1631485031382	Marionette	INFO	Listening on port 55474
+1631485032110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631485034774	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: getParameter: pname: Invalid enum value MAX_SAMPLES
+JavaScript warning: https://earth.google.com/static/wasm/9.145.0.1/earthwasm.wasm, line 1032351: Script terminated by timeout at:
+@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.wasm:wasm-function[2381]:0xfc09f
+@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.wasm:wasm-function[10889]:0x4ab2a7
+@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.wasm:wasm-function[4613]:0x1f4363
+@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.wasm:wasm-function[11794]:0x52c04f
+@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.wasm:wasm-function[834]:0x616e4
+@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.wasm:wasm-function[6487]:0x2f4618
+@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.wasm:wasm-function[13374]:0x6554ce
+@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.wasm:wasm-function[34130]:0xb145e8
+@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.wasm:wasm-function[3465]:0x182f43
+@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.wasm:wasm-function[36398]:0xbbbabd
+@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.wasm:wasm-function[36399]:0xbbbb02
+@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.wasm:wasm-function[36233]:0xba8808
+@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.wasm:wasm-function[17435]:0x875100
+@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.wasm:wasm-function[53211]:0xebdc19
+wrapper@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.js:1:134157
+callUserCallback@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.js:1:108890
+safeRequestAnimationFrame/<@https://earth.google.com/static/wasm/9.145.0.1/earthwasm.js:1:119238
+window.requestAnimationFrame/<@https://earth.google.com/static/wasm/9.145.0.1/polyfills/web-animations-next-lite.min.js:96:192
+
+JavaScript error: https://earth.google.com/static/wasm/9.145.0.1/app__pt_pt.js, line 5259: TypeError: this.iy is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631485090812	Marionette	INFO	Stopped listening on port 55474
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631485097541	geckodriver	INFO	Listening on 127.0.0.1:55576
+1631485100484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileHeE94N"
+1631485102034	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileHeE94N\\search.json.mozlz4", (void 0)))
+1631485110976	Marionette	INFO	Listening on port 55585
+1631485112225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631485461513	Marionette	INFO	Stopped listening on port 55585
+1631486384650	geckodriver	INFO	Listening on 127.0.0.1:64362
+1631486387634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileTmr1JK"
+1631486388471	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileTmr1JK\\search.json.mozlz4", (void 0)))
+1631486397384	Marionette	INFO	Listening on port 54356
+1631486397981	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users1631486778621	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile1C8VtO\\search.json.mozlz4", (void 0)))
+1631486788633	Marionette	INFO	Listening on port 59155
+1631486790166	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1631486907934	Marionette	INFO	Stopped listening on port 59155
+1631487117356	geckodriver	INFO	Listening on 127.0.0.1:55438
+1631487120322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileepBMp9"
+1631487121349	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileepBMp9\\search.json.mozlz4", (void 0)))
+1631487128652	Marionette	INFO	Listening on port 51508
+1631487128944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631487492020	Marionette	INFO	Stopped listening on port 51501631487492086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilefANvd4"
+1631487493410	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilefANvd4\\search.json.mozlz4", (void 0)))
+1631487502237	Marionette	INFO	Listening on port 62311
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1631487504270	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA90006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Gui\AppData\Local\Temp\rust_mozprofilefANvd4\protections.sqlite
+1631487571425	Marionette	INFO	Stopped listening on port 62311
+1631487574344	geckodriver	INFO	Listening on 127.0.0.1:58011
+1631487577338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileft32TD"
+1631487577994	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileft32TD\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1631487588782	Marionette	INFO	Listening on port 58631
+1631487589353	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631487649664	Marionette	INFO	Stopped listening on port 58631
+1631487652601	geckodriver	INFO	Listening on 127.0.0.1:61765
+1631487655581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile02EnUE"
+1631487656316	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile02EnUE\\search.json.mozlz4", (void 0)))
+1631487665560	Marionette	INFO	Listening on port 57723
+1631487666438	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Gui\AppData\Local\Temp\rust_mozprofile02EnUE\protections.sqlite
+1631487995201	Marionette	INFO	Stopped listening on port 57723
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631488003174	geckodriver	INFO	Listening on 127.0.0.1:52654
+1631488006161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilez2cZe8"
+1631488006962	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilez2cZe8\\search.json.mozlz4", (void 0)))
+1631488015929	Marionette	INFO	Listening on port 62432
+1631488016568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631488152048	Marionette	INFO	Stopped listening on port 62432
+1488123691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileJWNmW7"
+1631488124428	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileJWNmW7\\search.json.mozlz4", (void 0)))
+1631488134979	Marionette	INFO	Listening on port 61754
+1631488135684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1631488152512	Marionette	INFO	Stopped listening on port 61754
+1631488575355	geckodriver	INFO	Listening on 127.0.0.1:61237
+1631488578340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileXBwqwN"
+1631488579324	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileXBwqwN\\search.json.mozlz4", (void 0)))
+1631488588393	Marionette	INFO	Listening on port 65401
+1631488588494	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631488650558	Marionette	INFO	Stopped listening on port 65401
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631554884583	geckodriver	INFO	Listening on 127.0.0.1:60543
+1631554887690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileQ3Dzkt"
+1631554894178	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileQ3Dzkt\\search.json.mozlz4", (void 0)))
+[Parent 11672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+1631554907700	Marionette	INFO	Listening on port 53968
+1631554908268	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 11672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1631555022027	Marionette	INFO	Stopped listening on port 53968
+1631555240996	geckodriver	INFO	Listening on 127.0.0.1:58093
+1631555282870	geckodriver	INFO	Listening on 127.0.0.1:49902
+1631555285899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofiledSvDBF"
+1631555288274	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofiledSvDBF\\search.json.mozlz4", (void 0)))
+1631555297532	Marionette	INFO	Listening on port 59261
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1631555298417	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Gui\AppData\Local\Temp\rust_mozprofiledSvDBF\protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete_console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilerC39nB\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1631555377767	Marionette	INFO	Listening on port 54976
+1631555377864	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631555881093	Marionette	INFO	Stopped listening on port 54976
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631555886296	geckodriver	INFO	Listening on 127.0.0.1:59170
+1631555889268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilePI1xEl"
+1631555891422	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilePI1xEl\\search.json.mozlz4", (void 0)))
+1631555899556	Marionette	INFO	Listening on port 51869
+1631555899933	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631555977544	Marionette	INFO	Stopped listening on port 51869
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631555979489	geckodriver	INFO	Listening on 127.0.0.1:60034
+1631555982541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile8amK2w"
+1631555984098	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile8amK2w\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1631555996497	Marionette	INFO	Listening on port 59404
+1631555996605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 101631556029093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilexbEmFQ"
+1631556030425	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofilexbEmFQ\\search.json.mozlz4", (void 0)))
+1631556039502	Marionette	INFO	Listening on port 64885
+1631556039960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631556217526	Marionette	INFO	Stopped listening on port 64885
+1556212061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileiwhpHa"
+1631556213875	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileiwhpHa\\search.json.mozlz4", (void 0)))
+1631556225030	Marionette	INFO	Listening on port 50325
+1631556225558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631556317388	Marionette	INFO	Stopped listening on port 50325
+1631556320293	geckodriver	INFO	Listening on 127.0.0.1:60140
+1631556323245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile4TPGF6"
+1631556324319	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile4TPGF6\\search.json.mozlz4", (void 0)))
+1631556333045	Marionette	INFO	Listening on port 55438
+1631556334130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631556762314	Marionette	INFO	Stopped listening on port 55438
+1556753309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileNAaaG5"
+1631556754166	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofileNAaaG5\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1631556763601	Marionette	INFO	Listening on port 61957
+1631556764160	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631556864959	Marionette	INFO	Stopped listening on port 61957
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

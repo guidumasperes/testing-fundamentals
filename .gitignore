@@ -1,0 +1,3 @@
+pytest/automation/.pytest_cache
+pytest/automation/__pycache__
+jest/node_modules
